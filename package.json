@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "纯前端本地音频剪辑器 - Vue3 + Web Audio API",
+  "license": "ISC",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
